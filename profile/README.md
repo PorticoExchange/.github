@@ -18,3 +18,8 @@ Besides, Portico is compatible with
 
 -Submarine-Swap
 
+-Sequentia
+
+-Hosted Channels
+
+
