@@ -1,6 +1,6 @@
 # About-Portico-Exchange
 
-Portico Exchange is an Exchange Decentralized on Lightning Network allows users make 'swap' between sidechains and layers
+Portico  is an Exchange Decentralized on Lightning Network allows users make 'swap' between sidechains and layers
 
 The 'swap' happen with support HTLC (Hashed TimeLock) and sript native of Bitcoin
 
