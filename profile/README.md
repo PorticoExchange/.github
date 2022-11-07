@@ -9,8 +9,12 @@ The product is backed by [Sequentia](https://github.com/SequentiaSEQ)
 Besides, Portico is compatible with 
 
 -RGB
+
 -Omnibolt
+
 -Liquid
+
 -LNURL
+
 -Submarine-Swap
 
