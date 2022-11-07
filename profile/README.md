@@ -4,7 +4,7 @@ Portico Exchange is an Exchange Decentralized on Lightning Network allows users 
 
 The 'swap' happen with support HTLC (Hashed TimeLock) and sript native of Bitcoin
 
-The product is backed by [Sequentia] (https://github.com/SequentiaSEQ)
+The product is backed by [Sequentia](https://github.com/SequentiaSEQ)
 
 Besides, Portico is compatible with 
 
