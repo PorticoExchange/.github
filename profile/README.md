@@ -23,4 +23,4 @@ Besides, Portico is compatible with
 -Hosted Channels
 
 
-[Portico-Client is our 'heart' of product](https://github.com/PorticoExchange/PorticoExchange-client)
+[Portico-Client](https://github.com/PorticoExchange/PorticoExchange-client)
