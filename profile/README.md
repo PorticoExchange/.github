@@ -22,5 +22,12 @@ Besides, Portico is compatible with
 
 -Hosted Channels
 
+-LND
 
-[Portico-Client](https://github.com/PorticoExchange/PorticoExchange-client)
+-Core Lightning
+
+-Fabric Protocol
+
+-Eclair
+
+Our first client: [Portico Exchange](https://github.com/PorticoExchange/PorticoExchange-client)
