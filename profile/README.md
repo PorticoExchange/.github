@@ -30,4 +30,6 @@ Besides, Portico is compatible with
 
 -Eclair
 
+-DLCs
+
 Our first client: [Portico Exchange](https://github.com/PorticoExchange/PorticoExchange-client)
