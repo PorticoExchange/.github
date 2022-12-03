@@ -12,6 +12,9 @@ The 'swap' happen with support HTLC (Hashed TimeLock) and sript native of Bitcoi
 
 ![image](https://user-images.githubusercontent.com/83122757/205439769-b05d8c78-960c-4366-8c87-e6e71599967f.png)
 
+# Graphic Portico with DLCs, sidechains, layers and Lightning Network
+
+![image](https://user-images.githubusercontent.com/83122757/205443627-decb884e-e9d6-4c24-8417-cda76e198610.png)
 
 The product is backed by [Sequentia](https://github.com/SequentiaSEQ)
 
@@ -42,3 +45,5 @@ Besides, Portico is compatible with
 -DLCs
 
 Our first client: [Portico Exchange](https://github.com/PorticoExchange/PorticoExchange-client)
+
+[Whitepaper] (https://layertwolabs.gitbook.io/portico-exchange/)
