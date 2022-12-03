@@ -46,4 +46,4 @@ Besides, Portico is compatible with
 
 Our first client: [Portico Exchange](https://github.com/PorticoExchange/PorticoExchange-client)
 
-[Whitepaper] (https://layertwolabs.gitbook.io/portico-exchange/)
+[Whitepaper](https://layertwolabs.gitbook.io/portico-exchange/)
