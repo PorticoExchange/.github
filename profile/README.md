@@ -46,7 +46,7 @@ Besides, Portico is compatible with
 
 Ours last clients:
 
-[First client] (https://github.com/PorticoExchange/PorticoExchangeCore) fork of Boltz 
+[First client](https://github.com/PorticoExchange/PorticoExchangeCore) fork of Boltz 
 
 [Second client](https://github.com/PorticoExchange/PorticoExchange-client) fork of Boltz
 
