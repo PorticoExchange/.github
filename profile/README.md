@@ -54,4 +54,4 @@ Ours last clients:
 
 [Four client](https://github.com/PorticoExchange/PorticoExchangeClientV4) fork of Core Lightning
 
-[Whitepaper](https://layertwolabs.gitbook.io/portico-exchange/)
+[Whitepaper](https://arealayer.gitbook.io/portico-exchange/)
