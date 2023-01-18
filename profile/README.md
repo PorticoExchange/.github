@@ -44,14 +44,4 @@ Besides, Portico is compatible with
 
 -DLCs
 
-Ours last clients:
-
-[First client](https://github.com/PorticoExchange/PorticoExchangeCore) fork of Boltz 
-
-[Second client](https://github.com/PorticoExchange/PorticoExchange-client) fork of Boltz
-
-[Third client](https://github.com/PorticoExchange/PorticoExchangeClientV3) fork of PeerSwap
-
-[Four client](https://github.com/PorticoExchange/PorticoExchangeClientV4) fork of Core Lightning
-
 [Whitepaper](https://arealayer.gitbook.io/portico-exchange/)
