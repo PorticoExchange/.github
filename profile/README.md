@@ -52,4 +52,4 @@ This is a exclusive wallet for support Portico
 
 # Portico Improvement Proposal (PIP)
 
-[Standard for developers and user promotes ideas or suggestions for support Portico] (https://github.com/PorticoExchange/PIP)
+[Standard for developers and user promotes ideas or suggestions for support Portico](https://github.com/PorticoExchange/PIP)
