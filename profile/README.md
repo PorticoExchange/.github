@@ -43,3 +43,10 @@ Besides, Portico is compatible with
 -DLCs
 
 [Whitepaper](https://arealayer.gitbook.io/portico-exchange/)
+
+# Demo wallet for Portico Exchange
+
+This is a exclusive wallet for support Portico
+
+![image](https://user-images.githubusercontent.com/83122757/228824638-b0181905-0e79-4cad-a98c-90827c3b6509.png)
+
