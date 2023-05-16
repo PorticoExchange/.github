@@ -26,6 +26,8 @@ Besides, Portico is compatible with
 
 -Liquid
 
+-Sequentia
+
 -LNURL
 
 -Submarine-Swap
@@ -53,3 +55,7 @@ This is a exclusive wallet for support Portico
 # Portico Improvement Proposal (PIP)
 
 [Standard for developers and user promotes ideas or suggestions for support Portico](https://github.com/PorticoExchange/PIP)
+
+# Lightning Node (soon)
+
+-PubKey:
