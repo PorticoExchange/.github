@@ -16,7 +16,7 @@ The 'swap' happen with support HTLC (Hashed TimeLock) and sript native of Bitcoi
 
 ![image](https://user-images.githubusercontent.com/83122757/205443627-decb884e-e9d6-4c24-8417-cda76e198610.png)
 
-The product is backed by [Sequentia](https://github.com/SequentiaSEQ)
+The product is backed by [Sequentia](https://github.com/SequentiaSEQ) and Portico Labs
 
 Besides, Portico is compatible with 
 
