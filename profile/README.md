@@ -1,4 +1,4 @@
-# About-Portico-Exchange
+# Portico Exchange powered by Portico Labs
 
 Portico  is an Exchange Decentralized on Lightning Network allows users make 'swap' between sidechains and layers
 
