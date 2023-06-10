@@ -20,29 +20,29 @@ The product is backed by [Sequentia](https://github.com/SequentiaSEQ) and Portic
 
 Besides, Portico is compatible with 
 
--RGB
+- RGB
 
--Omnibolt
+- Omnibolt
 
--Liquid
+- Liquid
 
--Sequentia
+- Sequentia
 
--LNURL
+- LNURL
 
--Submarine-Swap
+- Submarine-Swap
 
--Hosted Channels
+- Hosted Channels
 
 -LND
 
--Core Lightning
+- Core Lightning
 
--Fabric Protocol
+- Fabric Protocol
 
--Eclair
+- Eclair
 
--DLCs
+- DLCs 
 
 [Whitepaper](https://arealayer.gitbook.io/portico-exchange/)
 
