@@ -34,7 +34,7 @@ Besides, Portico is compatible with
 
 - Hosted Channels
 
--LND
+- LND
 
 - Core Lightning
 
