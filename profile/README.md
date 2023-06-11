@@ -48,10 +48,10 @@ Besides, Portico is compatible with
 
 ## Main products 
 
-- Portico Wallet 
-- Web Exchange 
-- Client
-- Portico Labs Ventures 
+- [Portico Wallet](https://github.com/PorticoExchange/Portico-Wallet)
+- [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend)
+- [Client](https://github.com/PorticoExchange/PorticoExchange-Core-Client)
+- [Portico Labs Ventures]
 - LSP 
 
 ## Demo wallet for Portico Exchange
