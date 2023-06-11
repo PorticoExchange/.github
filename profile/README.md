@@ -48,12 +48,12 @@ Besides, Portico is compatible with
 
 ## Main products 
 
-- [Portico Wallet](https://github.com/PorticoExchange/Portico-Wallet)
-- [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend)
+- [Portico Wallet](https://github.com/PorticoExchange/Portico-Wallet): TBA
+- [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend): TBA
 - [Client](https://github.com/PorticoExchange/PorticoExchange-Core-Client)
-- Portico Labs Ventures: TBA
+- [Portico Labs Ventures](https://venture.angellist.com/portico-labs-vc/syndicate): TBA
 - BitSwap: TBA
-- LSP 
+- LSP: TBA
 
 ## Demo wallet for Portico Exchange
 
