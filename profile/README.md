@@ -52,7 +52,6 @@ Besides, Portico is compatible with
 - [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend): TBA
 - [Client](https://github.com/PorticoExchange/PorticoExchange-Core-Client)
 - [Portico Labs Ventures](https://venture.angellist.com/portico-labs-vc/syndicate): TBA
-- BitSwap: TBA
 - LSP: TBA
 
 ## Demo wallet for Portico Exchange
