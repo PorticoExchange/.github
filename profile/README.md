@@ -44,7 +44,7 @@ Besides, Portico is compatible with
 
 - DLCs 
 
-[Whitepaper](https://arealayer.gitbook.io/portico-exchange/)
+[Whitepaper](https://porticoexchange.gitbook.io/portico-exchange/)
 
 ## Main products 
 
