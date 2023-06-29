@@ -54,7 +54,7 @@ Besides, Portico is compatible with
 - [Portico Labs Ventures](https://venture.angellist.com/portico-labs-vc/syndicate): TBA
 - LSP: TBA
 
-## Other things
+### Other things
 
 - [Bitswap](https://github.com/BitSwap-BiFi) - AMM protocol on RGB
 
