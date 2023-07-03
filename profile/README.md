@@ -57,6 +57,7 @@ Besides, Portico is compatible with
 ### Other things
 
 - [Bitswap](https://github.com/BitSwap-BiFi) - AMM protocol on RGB
+- [RGB Lib Javascript](https://github.com/PorticoExchange/rgb-lib-javascript)
 
 ## Demo wallet for Portico Exchange
 
