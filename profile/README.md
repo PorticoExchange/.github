@@ -52,12 +52,10 @@ Besides, Portico is compatible with
 - [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend): TBA
 - [Client](https://github.com/PorticoExchange/PorticoExchange-Core-Client)
 - [Portico Labs Ventures](https://venture.angellist.com/portico-labs-vc/syndicate): TBA
-- LSP: TBA
-
-### Other things
-
-- [Bitswap](https://github.com/BitSwap-BiFi) - AMM protocol on RGB
+- [Tap Lib JS](https://github.com/PorticoExchange/Taproot-Assets-Lib)
 - [RGB Lib Javascript](https://github.com/PorticoExchange/rgb-lib-javascript)
+- [Bitswap](https://github.com/BitSwap-BiFi) - AMM protocol on RGB
+- LSP: TBA
 
 ## Demo wallet for Portico Exchange
 
