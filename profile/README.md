@@ -6,7 +6,7 @@ The 'swap' happen with support HTLC (Hashed TimeLock) and sript native of Bitcoi
 
 ## How works?
 
-![image](https://user-images.githubusercontent.com/83122757/205439784-e32b2c34-1e2d-42cf-9086-214db57e38b1.png
+![image](https://user-images.githubusercontent.com/83122757/205439784-e32b2c34-1e2d-42cf-9086-214db57e38b1.png)
 
 The product is backed by [Sequentia](https://github.com/SequentiaSEQ) and Portico Labs
 
