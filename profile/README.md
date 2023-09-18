@@ -39,12 +39,7 @@ Besides, Portico is compatible with
 ## Main products 
 
 - [Portico Wallet](https://github.com/PorticoExchange/Portico-Wallet): TBA
-- [Web Exchange](https://github.com/PorticoExchange/Portico-Frontend): TBA
 - [Client](https://github.com/PorticoExchange/PorticoExchange-Core-Client)
-- [Portico Labs Ventures](https://venture.angellist.com/portico-labs-vc/syndicate): TBA
-- [Tap Lib JS](https://github.com/PorticoExchange/Taproot-Assets-Lib)
-- [RGB Lib Javascript](https://github.com/PorticoExchange/rgb-lib-javascript)
-- LSP: TBA
 
 ## Demo wallet for Portico Exchange
 
